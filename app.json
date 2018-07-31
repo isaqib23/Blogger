@@ -5,7 +5,80 @@
             "title": "Bise Sahiwal",
             "subtitle": "Board Of Intermediate and Secondary Education Sahiwal",
             "slug": "sahiwal",
-            "results":  true
+            "results":  true,
+            "data":{
+                "class": {
+                    "name": "class",
+                    "array": [
+                        {
+                            "key": "1",
+                            "value": "9th"
+                        },
+                        {
+                            "key": "2",
+                            "value": "10th"
+                        },
+                        {
+                            "key": "3",
+                            "value": "11th"
+                        },
+                        {
+                            "key": "4",
+                            "value": "12th"
+                        }
+                    ]
+                },
+                "year": {
+                    "name": "year",
+                    "array": [
+                        {
+                            "key": "2018",
+                            "value": "2018"
+                        },
+                        {
+                            "key": "2017",
+                            "value": "2017"
+                        },
+                        {
+                            "key": "2016",
+                            "value": "2016"
+                        },
+                        {
+                            "key": "2015",
+                            "value": "2015"
+                        },
+                        {
+                            "key": "2014",
+                            "value": "2014"
+                        },
+                        {
+                            "key": "2013",
+                            "value": "2013"
+                        },
+                        {
+                            "key": "2012",
+                            "value": "2012"
+                        }
+                    ]
+                },
+                "session": {
+                    "name": "sess",
+                    "array": [
+                        {
+                            "key": "1",
+                            "value": "ANNUAL"
+                        },
+                        {
+                            "key": "2",
+                            "value": "SUPPLY"
+                        }
+                    ]
+                },
+                "rollno": {
+                    "name": "rno",
+                    "array": []
+                }
+            }
         },
         {
             "title": "Bise Lahore",
